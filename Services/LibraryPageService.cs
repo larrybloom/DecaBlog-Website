@@ -1,8 +1,6 @@
-﻿using System.Security.Claims;
-using DecaBlogMVC.Models;
+﻿using DecaBlogMVC.Models;
 using DecaBlogMVC.Models.Api;
 using DecaBlogMVC.Models.Components;
-using DecaBlogMVC.Services.Interfaces;
 using DecaBlogMVC.Utilities;
 
 namespace DecaBlogMVC.Services;
